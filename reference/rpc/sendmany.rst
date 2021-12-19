@@ -103,7 +103,7 @@ Result (if verbose is not set or set to false)
      - Description
    * - hex
      - string
-     - The transaction id for the send. Only 1 transaction is created regardless of
+     - The transaction id for the send. Only 1 transaction is created regardless of the number of addresses.
 
 Result (if verbose is set to true)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
